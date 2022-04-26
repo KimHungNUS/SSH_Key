@@ -1,0 +1,74 @@
+
+# --- Sourcetree Generated ---
+Host github.com-myGitHub
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/myGitHub	
+# ----------------------------
+Host github.com-tony
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/tony
+# ----------------------------
+Host github.com-jeff
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/jeff
+# ----------------------------
+Host github.com-myid
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/myid
+# ----------------------------
+Host github.com-landlog
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/landlog
+# ----------------------------
+Host bitbucket.org-tony
+    HostName bitbucket.org
+    User git
+    IdentityFile ~/.ssh/tonybit
+# ----------------------------
+Host gitlab.com-tony
+    HostName gitlab.com
+    User git
+    IdentitiesOnly yes
+    IdentityFile ~/.ssh/tony_gitlab
+# ----------------------------
+
+Host dkthealth
+     HostName gitlab.com
+     IdentityFile ~/.ssh/dkthealth
+     IdentitiesOnly yes
+# ----------------------------
+Host bitbucket.org-tony1
+    HostName bitbucket.org
+    User git
+    IdentityFile ~/.ssh/tony_gitlab
+# ----------------------------
+Host bitbucket.org-ron
+    HostName bitbucket.org
+    User git
+    IdentityFile ~/.ssh/ron
+# ----------------------------
+Host bitbucket.org-david
+    HostName bitbucket.org
+    User git
+    IdentityFile ~/.ssh/David
+# ----------------------------
+Host bitbucket.org-jeff
+    HostName bitbucket.org
+    User git
+    IdentityFile ~/.ssh/Jeff
+# ----------------------------
+Host github.com-hungtk
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+# ----------------------------
+Host github.com-linh
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/linhkey
+
